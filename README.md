@@ -56,7 +56,7 @@ Training Models (Machine Learning Classification Models)
 
 2. Fine-Tuning
 
-### Conclussions: 
+### Conclusions: 
 
 After completing our analysis, we discovered that the Random Forest model worked best with the dataset we cleaned applying knn and mean substitution. We achieved to get a 0.88 score in our model with a 95% of the non customers correctly classified and 76% of the customers correctly classified.
 
